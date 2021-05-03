@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cem Nisan</h1>
-<h3 align="center">Full-Stack Web Developer from Turkey.</h3>
+<h3 align="center">I've been learning software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cemnisan" alt="cemnisan" /> </p>
 
